@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nutritious</string>
+    <string name="tv_take_photo">Take Photo</string>
+    <string name="gal_take_photo">Photo Gallery</string>
+    <string name="tv_description">Select a preset image or take a new photo</string>
+    <string name="tv_placeholder">Select a picture from preset/camera/gallery</string>
+    <string name="get_nutrtition">See Nutrition</string>
+    <string name="title_dialog">Proceed?</string>
+</resources>
